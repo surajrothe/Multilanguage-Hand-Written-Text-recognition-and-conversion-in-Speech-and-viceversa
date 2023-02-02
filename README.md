@@ -30,5 +30,5 @@ the main goal is to integrate all of the various functions, including speech rec
 
 <h5>Speech to text</h5>
 
-<h3>conclusion</h3>
+<h3>Conclusion</h3>
 <p>In this proposed system, we implemented the system for user who phasing problems of language barrier and also it user interface is also user friendly so that user can easily interact with this system . So because of this system don't have to use dictionary for understanding the meaning of word, so it automatically reduce the user task for understanding the languages for communication.</p>
